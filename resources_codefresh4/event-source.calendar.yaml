@@ -6,7 +6,7 @@ metadata:
 spec:
   calendar:
     example-with-interval:
-      interval: 5m
-      schedule: ""
+      interval: 15m
+      schedule: ''
   eventBusName: codefresh-eventbus
 status: {}
