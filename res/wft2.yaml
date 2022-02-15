@@ -1,9 +1,8 @@
-foobar
 apiVersion: argoproj.io/v1alpha1
-kind: WorkflowTemplates
+kind: WorkflowTemplate
 metadata:
   creationTimestamp: null
-  name: wft2
+  name: wft21
 spec:
   arguments:
     parameters:
