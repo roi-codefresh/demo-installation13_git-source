@@ -1,7 +1,7 @@
 apiVersion: argoproj.io/v1alpha1
 kind: ApplicationSet
 metadata:
-  name: codefresh4
+  name: codefresh3
 spec:
   generators:
   - git:
