@@ -16,7 +16,7 @@ spec:
           destination: {}
           project: ""
           source:
-            repoURL: "":
+            repoURL: ""
   - git:
       files:
       - path: apps/**/codefresh4/config_dir123.json
